@@ -31,6 +31,8 @@
   <li><b>One.ix Media</b>: A digital platform where technology meets creativity. <a href="https://oneixmedia.com" target="_blank">Explore</a></li>
   <li><b>Finance and Technology Society</b>: Leading the charge at the University of Exeter as President.</li>
   <li><b>ExeGPT</b>: Customized AI for University of Exeter, providing tailored student support. <a href="https://chat.openai.com/g/g-szwDhBcmf-exegpt" target="_blank">Explore</a></li>
+  <li><b>Social Spyder</b>: Authored a thesis on Decentralized Social Media Platform. <a href="https://drive.google.com/file/d/1T45bDQWmxuAbKakI_OLGCB-ft9JvBe9N/view?usp=sharing" target="_blank">Explore</a></li>
+  
 </ul>
 <hr>
 <p align="center">🌱 <b>Lifelong Learner</b> 🌱</p>
