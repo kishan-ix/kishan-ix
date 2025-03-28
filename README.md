@@ -1,7 +1,4 @@
-<h1 align="center">Kishan Marsonia 🚀 Blockchain Visionary & FinTech Innovator</h1>
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/D4E16AQEr5KXvhmT9tw/profile-displaybackgroundimage-shrink_350_1400/0/1705264056235?e=1714003200&v=beta&t=N9W2c1QApt6WIbu7J0G6m6rmkpzzM2ddbv1LtjCjqCM" alt="Blockchain Future" style="width:100%;height:auto;max-width:1080px"/>
-</p>
+<h1 align="center">Kishan Marsonia</h1>
 
 <hr>
 
